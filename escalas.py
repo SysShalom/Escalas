@@ -4,7 +4,7 @@ import PyPDF2
 # Función que realiza la acción de ajustar
 def ajustar():
     # Directorio donde se almacenan los documentos a ajustar
-    # Reemplaza esto con la ruta a tu carpeta de entrada
+    # Reemplazar esta ruta con la ruta de directorios del ordenador
     input_dir = r'C:\Users\oscar\OneDrive\Escritorio\RP80 Series(202308)-CD'
 
     # Directorio donde se guardarán los documentos ajustados
